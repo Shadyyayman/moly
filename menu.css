@@ -1,0 +1,189 @@
+
+body{
+background-color: black;
+}
+
+.other{
+    background-color: orange;
+color: black;
+position: relative;
+top:319px;
+font-size: 160%;
+font-weight: bold;
+max-width: 17px;
+text-decoration: none;
+height: 0%;
+left: 79px;
+padding: 5px 65px;
+border:1px transparent solid ;
+border-radius: 50px;
+}
+
+
+
+.Vegetable{
+    background-color: orange;
+color: black;
+position: relative;
+top: 212px;
+font-size: 160%;
+font-weight: bold;
+max-width: 17px;
+text-decoration: none;
+height: 0%;
+left: 53px;
+padding: 5px 65px;
+border:1px transparent solid ;
+border-radius: 50px;
+}
+
+
+.meet{
+    background-color: orange;
+color: black;
+position: relative;
+top: 263px;
+font-size: 160%;
+font-weight: bold;
+max-width: 17px;
+text-decoration: none;
+height: 0%;
+left: 79px;
+padding: 5px 65px;
+border:1px transparent solid ;
+border-radius: 50px;
+}
+
+.moly{
+color: orange;
+text-decoration: none;
+font-size: 265%;
+margin-left: 24px;
+margin-bottom: 9px;
+position: relative;
+top: 1px;
+text-shadow: 2px 2px 3px orange;
+font-weight: bold;
+
+animation-name: moly;
+animation-duration: 5s;
+animation-iteration-count: infinite;
+animation-timing-function: linear;
+transition: 3s;
+}
+
+.eat{
+    position: relative;
+left: 103px;
+font-size: 50%;
+color: white;
+
+animation-name: eatt;
+animation-duration: 8s;
+animation-iteration-count: infinite;
+animation-timing-function: linear;
+transition: 6s;
+}
+
+.Vegetable:hover{
+    box-shadow: 0 0 5px orange,0 0 25px orange,0 0 50px orange,0 0 50px orange;
+}
+
+.other:hover{
+    box-shadow: 0 0 5px orange,0 0 25px orange,0 0 50px orange,0 0 50px orange;
+}
+
+.meet:hover{
+    box-shadow: 0 0 5px orange,0 0 25px orange,0 0 50px orange,0 0 50px orange;
+}
+
+
+
+
+
+@keyframes eatt {
+
+0%{
+    opacity: 100%;
+}
+
+25%{
+    opacity: 25%;
+}
+
+50%{
+    opacity: 100%;
+}
+
+75%{
+    opacity:25%; 
+}
+
+100%{
+    opacity:100%; 
+}
+
+}
+
+
+@keyframes moly {
+
+    0%{
+        opacity: 50%;
+    }
+    
+    25%{
+        opacity: 100%;
+    }
+    
+    50%{
+        opacity: 50%;
+    }
+    
+    75%{
+        opacity:100%; 
+    }
+    
+    100%{
+        opacity:50%; 
+    }
+    
+    }
+
+    .call_center{
+        color: orange;
+background-color: white;
+text-decoration: none;
+padding: 6px 16px;
+border-radius: 36px;
+
+position: relative;
+left: -100px;
+top: 384px;
+font-weight: bold;
+    }
+
+    .call_center:hover{
+        box-shadow: 0 0 5px rgb(185, 180, 170),0 0 25px orange,0 0 50px orange,0 0 50px orange;
+    }
+
+
+    .wright{
+        font-size: 96%;
+      color: orange;
+      position: relative;
+      top: 449px;
+      text-align: center;
+      font-weight: bold;
+      }
+      
+      .phone{
+        font-size: 210%;
+      font-weight: bold;
+      position: relative;
+      left: 70px;
+      top: 487px;
+      color: green;
+      text-decoration: none;
+      }
+      

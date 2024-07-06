@@ -1,0 +1,101 @@
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.word{
+
+    font-size: 90%;
+    text-align: center;
+    position: relative;
+    top: 435px;
+    line-height: 30px;
+color: orange;
+}
+
+.word::selection{
+    color: black;
+background-color: orange;
+}
+
+.menu{
+color: black;
+text-decoration: none;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+top: 180px;
+font-size: 210%;
+background-color: orange;
+width: 46%;
+border: 1px transparent solid;
+border-radius: 25px;
+right: -105px;
+box-shadow: 0 0 5px,0 0 25px orange;
+}
+
+.menu:hover{
+    color:black;
+    background-color:orange;
+box-shadow: 0 0 5px orange,0 0 25px orange,0 0 50px orange,0 0 100px orange;
+}
+
+.menu::selection{
+    color: orange;
+    background-color: black;
+}
+
+.no{
+    color: white;
+}
+
+.home{
+    color: orange;
+font-size: 200%;
+display: flex;
+justify-content: end;
+margin-right: 26px;
+position: relative;
+top: -19px;
+left: 3px;
+transition: 2.5s;
+}
+
+.home:hover{
+    margin-right: 45px;
+
+}
+
+.log_in{
+    color: orange;
+    text-decoration: none;
+    font-size: 150%;
+    margin-left: 20px;
+    background-color: white;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    width: 22%;
+    position: relative;
+    left: 255px;
+    top: -62px;
+}
+
+.logo{
+    color: white;
+}
+
+p::selection{
+background-color: orange;
+color: black;
+}
+
+img{
+    width: 22%;
+    margin-left: 20px;
+}
+
+img::selection{
+    background-color: orange;
+}

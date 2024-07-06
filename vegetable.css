@@ -1,0 +1,245 @@
+body{
+    background-color: black;
+}
+
+.bam {
+
+    width: 38%;
+border-radius: 10px;
+position: relative;
+left: -25px;
+bottom: 605px;    
+}
+
+  .fasolia {
+  
+  
+    width: 32%;
+    border-radius: 10px;
+    position: relative;
+    right: 160px;
+    top: -1px;
+
+}
+
+  .fasolia_khadra {
+   
+  
+    width: 35%;
+    border-radius: 20px;
+    position: relative;
+    top: -594px;
+    right: -7px;
+
+}
+
+  .molokhia{
+   
+
+    width: 30%;
+border-radius: 10px;
+position: relative;
+right: 114px;
+top: -178px;
+
+}
+
+  .mahshi{
+   
+  
+    width: 33%;
+    border-radius: 10px;
+    position: relative;
+    top: -580px;
+    right: -9px;
+}
+
+
+  .mahshi_wrkanap{
+
+    width: 31%;
+border-radius: 10px;
+position: relative;
+right: 110px;
+top: -121px;
+}
+
+  .pasalawegzr{
+    
+  
+    width: 34%;
+    border-radius: 10px;
+    position: relative;
+    top: -560px;
+    right: -7px;
+
+}
+
+  .sapanikh{
+border-radius: 10px;
+position: relative;
+left: -118px;
+top: -130px;
+width: 33%;
+}
+
+  .kolkas{
+
+    width: 33%;
+    border-radius: 10px;
+    position: relative;
+    left: 12px;
+    top: -581px;
+}
+
+  .kosaandptngan{
+    
+
+    width: 28%;
+    border-radius: 10px;
+    position: relative;
+    left: -105px;
+    top: -120px;
+}
+
+  .anappllahma{
+    /* width: 40%;
+    border-radius: 10px ;
+    position: relative;
+    left: 0px;
+    top: 673px; */
+
+
+    width: 30%;
+    border-radius: 10px;
+    position: relative;
+    left: -214px;
+    top: -47px;
+
+}
+
+  .arasflahe{
+    /* width: 40%;
+    border-radius:10px;
+    position: relative;
+    left: -149px;
+    top: 788px; */
+
+    width: 31%;
+    border-radius: 10px;
+    position: relative;
+    left: 11px;
+    top: -39px;
+
+}
+
+.home {
+    color: white;
+    position: relative;
+    /* border: ; */
+    bottom: 39px;
+    right: -17px;
+    font-size: 162%;
+  bottom: 704px;
+  }
+
+  .home:hover{
+    color: orange;
+  }
+
+
+
+  .wright{
+
+    color: white;
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+font-size: 220%;
+font-weight: bold;
+position: relative;
+left: 238px;
+line-height: 50px;
+top: 545px;
+  }
+
+  .a{
+    position: relative;
+    bottom: 429px;
+  }
+
+  .b{
+    position: relative;
+    bottom: 355px;
+  }
+
+  .c{
+    position: relative;
+    bottom: 284px;
+  }
+
+  .d{
+    position: relative;
+    bottom: 240px;
+  }
+
+  .e{
+    position: relative;
+    bottom: 200px;
+  }
+  .f{
+    position: relative;
+    bottom: 173px;
+  }
+
+  .g{
+    position: relative;
+    bottom: 131px;
+    left: -10px;
+  }
+
+  .h{
+    position: relative;
+    bottom: 91px;
+  }
+
+  .i{
+    position: relative;
+    bottom: 937px;
+  }
+
+  .q{
+    position: relative;
+    bottom: 91px;
+  }
+
+  .k{
+    position: relative;
+    bottom: 91px;
+  }
+
+  .l{
+    position: relative;
+    bottom: 96px;
+  }
+  
+  .m{
+    position: relative;
+    bottom: 61px;
+  }
+
+  .n{
+    position: relative;
+    bottom: 44px;
+  }
+  
+  .price{
+    color: orange;
+position: relative;
+left: 200px;
+font-weight: bold;
+font-size: 250%;
+  }
+
+    
+ 

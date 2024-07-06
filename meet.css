@@ -1,0 +1,243 @@
+body{
+    background-color: black;
+}
+
+.home {
+    color: white;
+    font-size: 162%;
+    margin: 2px 22px;
+  position: relative;
+top: 5px;
+}
+
+  .home:hover{
+    color: orange;
+  }
+
+  .price{
+    color: white;
+    position: relative;
+    left: 221px;
+    font-weight: bold;
+    font-size: 168%;
+    line-height: 57px;
+  }
+
+  .saar{
+    color: orange;
+    font-size: 130%;
+    position: relative;
+    right: 14px;
+    font-weight: bold;
+    bottom: 17px;}
+
+  .kofta{
+    width: 30%;
+    border-radius: 11px;
+    position: relative;
+  bottom: 951px;
+}
+  
+
+  .kofta_haty{
+    width: 30%;
+    border-radius: 11px;
+    position: relative;
+    bottom: 860px;
+    right: 112px;
+  }
+
+  .bargar{
+    width: 21%;
+    border-radius: 11px;
+    position: relative;
+    bottom: 771px;
+    right: 210px;}
+
+  .sgak{
+    
+    width: 28%;
+    border-radius: 11px;
+    position: relative;
+    bottom: 749px;
+    right: -2px;
+  }
+
+  .shesh{
+    width: 30%;
+    border-radius: 11px;
+    position: relative;
+    bottom: 678px;
+    right: 104px;
+  }
+
+  .mmbar{
+    width: 30%;
+    border-radius: 11px;
+    position: relative;
+    bottom: 613px;
+    right: 214px;}
+
+  .baany{
+    width: 30%;
+    border-radius: 11px;
+    position: relative;
+    bottom: 613px;
+    right: -3px;}
+
+  
+
+  .chekin{
+    width: 30%;
+    border-radius: 11px;
+    position: relative;
+    bottom: 529px;
+    right: 110px;}
+
+  .shawarma-meet{
+    width: 30%;
+    border-radius: 11px;
+    position: relative;
+    bottom: 458px;
+    right: 220px;}
+
+  .shawarma-chekin{
+    width: 30%;
+    border-radius: 11px;
+    position: relative;
+  bottom: 458px;
+  right: -4px;
+  }
+
+  .hawashishi{
+    width: 30%;
+    border-radius: 11px;
+    position: relative;
+    bottom: 378px;
+    right: 106px;}
+
+  .chekin_mahshi{
+    width: 30%;
+    border-radius: 11px;
+    position: relative;
+    bottom: 293px;
+    right: 218px;}
+
+.hamam{    
+    width: 30%;
+    border-radius: 23px;
+    position: relative;
+    bottom: 293px;
+    right: -6px;
+}
+
+
+.a{
+
+  position: relative;
+  bottom: 26px;
+}
+
+/* .b{
+
+  position: relative;
+  bottom: 
+} */
+
+.c{
+  position: relative;
+  bottom: -350px;
+}  
+
+.d{
+  position: relative;
+  bottom:13px; 
+  
+}
+
+.e{
+  position: relative;
+  bottom: -34px;
+  
+}
+
+.f{
+  position: relative;
+  bottom:-109px; 
+  
+}
+
+.g{
+  position: relative;
+  bottom: 11px;
+  
+}
+
+.h{
+
+  position: relative;
+  bottom:69px; 
+}
+
+.i{
+  position: relative;
+  bottom:-90px;
+}
+
+.p{
+  position: relative;
+  bottom:-256px;
+}
+
+.q{
+  position: relative;
+  bottom: -53px;
+}
+
+.l{
+  position: relative;
+  bottom:-72px; 
+}
+
+.m{
+  position: relative;
+  bottom:1px; 
+position: relative;
+top: 1000px;
+}
+
+.n{
+  position: relative;
+  bottom: 29px;
+  position: relative;
+  top: 1000px;
+}
+
+.z{
+  position: relative;
+  bottom: -51px;
+}
+
+.o{
+  position: relative;
+  bottom: -73px;
+}
+
+.wright{
+  font-size: 96%;
+color: orange;
+position: relative;
+top: -118px;
+text-align: center;
+font-weight: bold;
+}
+
+.number_phone{
+  font-size: 210%;
+font-weight: bold;
+position: relative;
+left: 79px;
+top: -81px;
+color: green;
+text-decoration: none;
+}

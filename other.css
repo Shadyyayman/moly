@@ -1,0 +1,95 @@
+body{
+    background-color: black;
+}
+
+.home{
+font-size: 189%;
+color: white;
+position: relative;
+left: 19px;
+bottom: -15px;
+
+}
+
+.home:hover{
+    color: orange;
+}
+
+.eat{
+    color: white;
+    position: relative;
+    left: 266px;
+    font-size: 226%;
+    font-weight: bold;
+}
+
+.makarona_mashamil{
+    width: 30%;
+border-radius: 10px;
+position:relative;
+bottom: 254px;
+right: -6px;
+}
+
+.golash{
+    width: 30%;
+border-radius: 10px;
+position:relative;
+top: -154px;
+left: -105px;
+}
+
+.potato{
+    width: 30%;
+border-radius: 10px;
+position:relative;
+top: 0px;
+left: -214px;
+}
+
+.samposk_shees{
+    width: 30%;
+border-radius: 10px;
+position:relative;
+top: 30px;
+right: -6px;
+
+}
+
+.samposk_meet{
+    width: 30%;
+border-radius: 10px;
+position: relative;
+top: 116px;
+right: 103px;
+}
+
+.a{
+    position: relative;
+top: 17px;
+}
+
+.b{
+    position: relative;
+top: 76px;
+}
+
+.c{
+    position: relative;
+top: 152px;
+}
+
+.d{
+    position: relative;
+top: 242px;
+}
+
+.e{
+    position: relative;
+top: 281px;
+}
+
+.price{
+    color: orange;
+    position: relative;
+    left: -20px;}

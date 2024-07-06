@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+}
+
+
+
+.form{
+    background-color:orange;
+    height: 273px;
+    width: 295px;
+    position: relative;
+    left: 29px;
+    top: 148px;
+    border-radius: 12px;
+}
+
+.save {
+    width: 31%;
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: -103px;
+    top: 126px;
+    border: 1px white solid;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+  }
+
+  .text {
+    width: 54%;
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: -68px;
+    top: 41px;
+    border: 1px white solid;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+text-align: center;  
+}
+
+  .mail {
+    width: 54%;
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: -68px;
+    top: 68px;
+    border: 1px white solid;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+  }
+
+  a{
+    font-size: 165%;
+    margin-left: 27px;
+    margin-top: 16px;
+color:white;
+text-decoration:none;  
+}
